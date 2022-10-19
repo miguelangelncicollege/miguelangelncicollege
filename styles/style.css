@@ -1,0 +1,76 @@
+body
+{
+    font-family: Montserrat;
+    text-align: left;
+}
+
+p
+{
+    margin-left: 26px
+}
+
+.separationLine
+{
+    border-top: 1px solid #005e80
+}
+
+.contactblock
+{
+    display: flex;
+}
+
+
+.contactDetails
+{
+    flex: 1;
+    order: 1;
+    flex-basis: 50%;
+}
+
+.photo
+{
+   flex: 2;
+   order: 2;
+}
+
+.professionalStrengthsList
+{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.technicalSkills div
+{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.experience1 div
+{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.experience2 div
+{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.experience3 div
+{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.education div
+{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.volunteerWork div
+{
+    justify-content: flex-start;
+}
+
