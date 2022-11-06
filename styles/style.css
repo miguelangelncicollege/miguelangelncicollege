@@ -1,16 +1,24 @@
-body
+body 
 {
-    font-family: Montserrat;
+    font-family: Montserrat; 
     text-align: left;
+    margin-left: 2%;
+}
+
+.contactcolumn
+{
+    margin-left: 2%;
 }
 
 p
 {
-    margin-left: 26px
+    margin-left: 2%;
+    margin-right: 2%;
 }
 
 .separationLine
 {
+    margin-right: 2%;
     border-top: 1px solid #005e80
 }
 
@@ -18,7 +26,6 @@ p
 {
     display: flex;
 }
-
 
 .contactDetails
 {
@@ -47,7 +54,7 @@ p
 
 .experience1 div
 {
-    display: flex;
+    display: flex ;
     justify-content: flex-start;
 }
 
