@@ -5,11 +5,6 @@ body
     margin-left: 2%;
 }
 
-.contactcolumn
-{
-    margin-left: 2%;
-}
-
 p
 {
     margin-left: 2%;
@@ -44,40 +39,47 @@ p
 {
     display: flex;
     justify-content: flex-start;
+    margin-right: 2%;
 }
 
 .technicalSkills div
 {
     display: flex;
     justify-content: flex-start;
+    margin-right: 2%;
 }
 
 .experience1 div
 {
     display: flex ;
     justify-content: flex-start;
+    margin-right: 2%;
 }
 
 .experience2 div
 {
     display: flex;
     justify-content: flex-start;
+    margin-right: 2%;
 }
 
 .experience3 div
 {
     display: flex;
     justify-content: flex-start;
+    margin-right: 2%;
 }
 
 .education div
 {
     display: flex;
     justify-content: flex-start;
+    margin-right: 2%;
 }
 
 .volunteerWork div
 {
     justify-content: flex-start;
+    margin-right: 2%;
 }
 
